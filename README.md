@@ -1,10 +1,6 @@
 
 <h1 align="center">Hi, I'm Sumit Hawlader 👋</h1>
 
-<h3 align="center">
-  Computer Science Undergraduate | Aspiring Software Engineer
-</h3>
-
 <p align="center">
   <i>Interested in Software Engineering, AI Automation, and building practical solutions.</i>
 </p>
