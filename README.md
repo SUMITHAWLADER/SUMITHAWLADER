@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Sumit
+# Hi there 👋, my name is Sumit
 I build AI automation systems for business workflows.
 
 Skills: Java, C++, Python, n8n, sql, numpy, pandas, matplotlib
