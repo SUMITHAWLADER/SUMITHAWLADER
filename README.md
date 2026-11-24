@@ -14,5 +14,5 @@ Skills: Java, C++, Python, n8n, sql, numpy, pandas, matplotlib
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SUMITHAWLADER&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/SUMITHAWLADER)  
+
 
