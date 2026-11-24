@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Sumit</h1>
-- 🌱 I’m currently learning **AI Automation**
+### Hi there 👋, my name is Sumit
+I build AI automation systems for business workflows.
 
-- 📝 I regularly read articles on [https://daily.dev/](https://daily.dev/)
+Skills: Java, C++, Python, n8n, sql, numpy, pandas, matplotlib
 
-- 📫 How to reach me **sumithawlader108108@gmail.com**
+- 🔭 I’m currently working on Ai Automation with n8n 
+- 🌱 I’m currently learning Copilot for Agentic AI Coding 
+- ⚡ Fun fact: Fun fact Sometimes my code works,and I have no idea why.🤷‍♂️💻 
 
-- ⚡ Fun fact **Sometimes my code works,and I have no idea why.🤷‍♂️💻**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sumithawlader01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumithawlader01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yodhax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yodhax" height="30" width="40" /></a>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sumithawlader01/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/61595004688177)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUMITHAWLADER)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SUMITHAWLADER&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/SUMITHAWLADER)  
+
